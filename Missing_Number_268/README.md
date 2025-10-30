@@ -15,7 +15,7 @@ Explanation: The numbers in the range [0,3] are [0,1,2,3].
 The missing number is 2.
 ```
 
-**Solution **
+**Solution:**
 
 1.Find the total sum of the first n natural numbers using the formula n × (n + 1) / 2.
 

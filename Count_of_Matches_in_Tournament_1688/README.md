@@ -9,16 +9,14 @@ In a single-elimination tournament, every match eliminates **one** team.
 Given the number of teams `n`, return the **total number of matches** played until **one winner** remains.
 
 **Example:**
+```
 Input: n = 7
 Output: 6
 
-Copy code
 Input: n = 14
 Output: 13
 
-markdown
-Copy code
-
+```
 **Solution:**
 
 1. Initialize ***m = 0*** to count matches.  

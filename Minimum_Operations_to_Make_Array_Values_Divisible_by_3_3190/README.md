@@ -1,4 +1,3 @@
-Here is your clean and ready-to-paste README — perfectly formatted, all *** preserved, matching your preferred structure:
 
 ## Problem: ***Minimum Operations to Make Array Values Divisible by 3*** (LeetCode ***#3190***)
 
